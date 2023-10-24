@@ -1,7 +1,7 @@
 # Salar de Uyuni
 ## Potosi, Bolivia
 
-![ImgName](https://daily.jstor.org/salar-de-uyuni/)
+![ImgName](https://daily.jstor.org/salar-de-uyuni/](https://daily.jstor.org/wp-content/uploads/2015/08/Solar_de_Uyuni_1050x700.jpg)
 
 Salar de Uyuni (or *"Salar de Tunupa"*) is the world's largest salt flat, or playa, at over 10,000 square kilometres (*3,900 sq mi*) in area.
 It is in the Daniel Campos Province in Potosí in southwest [Bolivia](https://en.wikipedia.org/wiki/Bolivia), near the crest of the Andes at an elevation of 3,656 m (*11,995 ft*) 
