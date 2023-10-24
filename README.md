@@ -34,9 +34,9 @@ Some usefull numbers:
 |      10        |        25       |      2        |
 
 
-More information on:
-1. [[https://daily.jstor.org/salar-de-uyuni/]]
-2. [[https://wikipedia.org]]
+## More information on:
+1. [Salar de Uyuni](https://daily.jstor.org/salar-de-uyuni/)
+2. [Bolivia](https://wikipedia.org](https://en.wikipedia.org/wiki/Bolivia)https://en.wikipedia.org/wiki/Bolivia)
 
 
 
