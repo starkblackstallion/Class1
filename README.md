@@ -34,5 +34,9 @@ Some usefull numbers:
 |      10        |        25       |      2        |
 
 
+More information on:
+1. [[https://daily.jstor.org/salar-de-uyuni/]]
+2. [[https://wikipedia.org]]
+
 
 
