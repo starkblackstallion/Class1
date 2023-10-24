@@ -1,5 +1,5 @@
-#Salar de Uyuni
-##Potosi, Bolivia
+# Salar de Uyuni
+## Potosi, Bolivia
 
 ![ImgName](https://daily.jstor.org/salar-de-uyuni/)
 
@@ -29,7 +29,7 @@ The Salar has been used as a filming location for movies such as:
 * and several others.
 
 Some usefull numbers:
-| Types of birds | Types of plants | Types of salt | 
+| **Types of birds** | **Types of plants** | **Types of salt** | 
 |----------------|-----------------|---------------|
 |      10        |        25       |      2        |
 
